@@ -1,0 +1,1 @@
+Zdalny system zaplonu do rakiety
